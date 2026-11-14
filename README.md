@@ -90,3 +90,20 @@ This project aims to understand the factors associated with credit card customer
 **Project Type:** Data Analytics 
 **Status:** In Progresss
 
+## Power BI Dashboard
+
+Created an interactive Power BI dashboard to analyze credit card customer churn.
+
+### Current Dashboard Visuals
+- Customer Churn Distribution
+- Customer Churn by Gender
+- Customer Churn by Age Group
+- Customer Churn by Card Type
+
+### Key Findings
+- Total Customers: 100,000
+- Churned Customers: 19,458
+- Retained Customers: 80,542
+- Overall Churn Rate: 19.46%
+
+More charts and dashboard improvements are in progress.
