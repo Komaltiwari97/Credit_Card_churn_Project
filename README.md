@@ -86,6 +86,7 @@ This project aims to understand the factors associated with credit card customer
 
 ---
 
-**Project Type:** Data Analytics  
-**Status:** In Progress
+
+**Project Type:** Data Analytics 
+**Status:** In Progresss
 
